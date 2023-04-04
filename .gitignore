@@ -1,0 +1,24 @@
+# npm generated files
+node_modules/
+npm-debug.log
+
+# environment variables
+.env
+
+# IDEs and text editors
+*.iml
+.idea/
+.vscode/
+
+# build artifacts
+dist/
+build/
+
+# coverage reports
+coverage/
+
+# test reports
+test-reports/
+
+# auto-generated files
+*.lock
